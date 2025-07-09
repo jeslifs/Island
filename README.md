@@ -4,6 +4,11 @@
 🔥 **Live: [jeslifs-island.vercel.app](https://jeslifs-island.vercel.app/)**
 
 This is my project for **Three.js Journey Challenge** - challenge by **Bruno Simon** ([threejs-journey.com](https://threejs-journey.com/)), where participants should create project in a month with main renderer library Three.js on a given theme. Theme of this challenge was **Island**.
+
+## Technical details
+- 3D engine: [Three.js](https://threejs.org/)
+- Models are done with [Blender](https://www.blender.org/)
+
 ```
 # Install dependencies
 npm install
